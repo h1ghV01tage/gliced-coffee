@@ -32,3 +32,12 @@ footer {
 }
 
 /* Add specific styles for each section or customize as needed */
+#detailed-products{
+
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+
+
+}
